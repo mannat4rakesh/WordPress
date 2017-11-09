@@ -16,7 +16,7 @@ To use the Wikipedia connector, you need:
 
 Studio - An instance of Anypoint Studio. If you do not use Anypoint Studio for development.
 
-To use a Salesforce connector in your Mule application, Please add this connector project to your Mule studio and 
+To use a Wikipedia connector in your Mule application, Please add this connector project to your Mule studio and 
 
 # Test Project
 
