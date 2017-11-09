@@ -1,5 +1,5 @@
 # Wikipedia Connector
-Mule Wiki Connector. All Right Reserved.
+Mule Wikipedia Connector. All Right Reserved.
 
 The Mule Connector for Wikipedia lets you connect to the Wikipedia platform. The connector provide convenient access to wiki features, data, and meta-data over HTTP.
 
