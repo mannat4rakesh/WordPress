@@ -14,9 +14,9 @@ This document assumes that you are familiar with Wikipedia, Mule Connectors and 
 
 To use the Wikipedia connector, you need:
 
-Studio - An instance of Mule Anypoint Studio.
+Mule Studio - An instance of Mule Anypoint Studio.
 
-To use a Wikipedia connector in your Mule application, Please add this connector project to your Mule studio and build it. We are working on it bring it as Maven dependency.
+To use a Wikipedia connector in your Mule application, Please add this connector project to your Mule studio and build it using install or update. We are working to bring it as Maven dependency.
 
 # Test Project
 
