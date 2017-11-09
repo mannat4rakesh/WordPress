@@ -8,7 +8,7 @@ The connector is currently under development and will be adding new features or 
 
 # Prerequisites
 
-This document assumes that you are familiar with Wikipiedia, Mule Connectors and Anypoint Studio essentials. Further, this page assumes that you have a basic understanding of elements in a Mule flow, and global elements.
+This document assumes that you are familiar with Wikipedia, Mule Connectors and Anypoint Studio essentials. Further, this page assumes that you have a basic understanding of elements in a Mule flow, and global elements.
 
 # Requirements
 
