@@ -6,11 +6,11 @@ The Mule Connector for Wikipedia lets you connect to the Wikipedia platform. The
 The connector executes API calls targeting Wikipedia’s action API, depending on the operations you configure. 
 The connector is currently under development and will be adding new features or covering all the wiki's call ASAP.
 
-Prerequisites
+# Prerequisites
 
 This document assumes that you are familiar with Wikipiedia, Mule Connectors and Anypoint Studio essentials. Further, this page assumes that you have a basic understanding of elements in a Mule flow, and global elements.
 
-Requirements
+# Requirements
 
 To use the Wikipedia connector, you need:
 
