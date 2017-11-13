@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(word-press:greet) -->
+    <word-press:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(word-press:greet) -->

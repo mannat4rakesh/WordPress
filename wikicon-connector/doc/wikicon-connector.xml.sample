@@ -1,3 +1,0 @@
-<!-- BEGIN_INCLUDE(wikicon:greet) -->
-    <wikicon:greet config-ref="" friend="#[map-payload:friend]" />
-<!-- END_INCLUDE(wikicon:greet) -->
